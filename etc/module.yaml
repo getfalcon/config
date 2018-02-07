@@ -1,0 +1,8 @@
+# Module Name
+name: Falcon_Config
+
+# Module Class Name
+moduleClass: \falcon\config\Module
+
+# Module Bootstrap Class Name
+bootstrapClass: \falcon\config\Bootstrap
